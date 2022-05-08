@@ -3,12 +3,14 @@ Default Dark Mode is a horizontal, collaborative team of engineers - software,
 DevOps, and UI/UX - who are working together to build a better way of learning 
 the skills necessary to work in an enterprise setting.
 
-## The Project: Vernal Financial
+
+## The Project: [Vernal Financial](https://vernalfinancial.com)
 Vernal Financial is intended to replicate many of the features and experiences 
 found in modern banking applications.  It will include a desktop application 
 for bank employees to be able to handle transactions in person, a web application
 for customers and administrators to be able to engage with the system, and a 
 mobile application for customers to bank on the go.
+
 
 ## The Team
 
