@@ -28,7 +28,7 @@ Matt is a full stack software engineer with experience in web development
 using Ruby, JavaScript, HTML, and CSS.
 
 #### Schmichael
-Schmichael is a DevOps engineer with experience building CI/Cd pipelines 
+Schmichael is a DevOps engineer with experience in pipeline automation  
 and container orchestration using Ansible, Terraform, Docker, Kubernetes, 
 and Amazon Web Services (AWS).
 
